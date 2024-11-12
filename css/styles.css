@@ -67,6 +67,7 @@ button{
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        padding: 24px 0;
 }
 .address{
     font-style: normal;
@@ -180,11 +181,12 @@ text-transform: capitalize;
     max-width: 1158px;
     display: flex;
     justify-content: space-between;
-margin-left: 141px;
-margin-right: 141px; 
+/* margin-left: 141px; */
+/* margin-right: 141px;  */
 /* margin-top: 24px; */
 padding-left: 15px;
 padding-right: 15px;
+margin: 0 auto;
 }
 .nav-links{
     display: flex;
@@ -199,8 +201,16 @@ padding-right: 15px;
 }
 .address-list{
 display: flex;
+gap: 40px;
 }
 header{
-    padding-top: 24px;
-    padding-bottom: 24px;
+    /* padding-top: 24px;
+    padding-bottom: 24px; */
+}
+.top-line{
+    border-bottom: 1px solid #e7e9fc;
+}
+.info{
+    display: flex;
+    align-items: center;
 }
