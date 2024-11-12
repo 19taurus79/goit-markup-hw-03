@@ -164,6 +164,7 @@ button{
 }
 .menu-nav-reference{
     color: #2e2f42;
+    padding: 24px 0;
 }
 .address-data-reference{
     color: #434455;
@@ -203,10 +204,7 @@ padding: 24px 0;
 display: flex;
 gap: 40px;
 }
-header{
-    /* padding-top: 24px;
-    padding-bottom: 24px; */
-}
+
 .top-line{
     border-bottom: 1px solid #e7e9fc;
 }
