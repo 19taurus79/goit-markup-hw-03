@@ -1,3 +1,6 @@
+h1,h2,h3,h4,h5,h6,p,ul{
+    margin: 0;
+}
 a {
     text-decoration: none;
 }
@@ -50,6 +53,7 @@ button{
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
+        margin-right: 76px;
 }
 .logo-double-color{
     color: #2e2f42;
@@ -173,20 +177,27 @@ text-transform: capitalize;
     max-width: 1158px;
     display: flex;
     justify-content: space-between;
-margin-left: 156px;
-margin-right: 156px;
-margin-top: 24px;
+margin-left: 141px;
+margin-right: 141px; 
+/* margin-top: 24px; */
+padding-left: 15px;
+padding-right: 15px;
 }
 .nav-links{
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 .menu-list{
     padding: 0;
     display: flex;
     gap: 40px;
-    margin-left: 76px;
+
 }
 .address-list{
 display: flex;
+}
+header{
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
