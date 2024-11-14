@@ -190,8 +190,8 @@ text-transform: capitalize;
 }
 .container{
     max-width: 1158px;
-    /* display: flex; */
-    /* justify-content: space-between; */
+    display: flex;
+    justify-content: space-between;
 /* margin-left: 141px; */
 /* margin-right: 141px;  */
 /* margin-top: 24px; */
