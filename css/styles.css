@@ -142,7 +142,7 @@ button{
         letter-spacing: 0.02em;
         color: #2e2f42;
         text-align: center;
-        padding-bottom: 8px;
+        margin-bottom: 8px;
 }
 .our-team-profession{
     font-weight: 400;
@@ -194,7 +194,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 text-transform: capitalize;
-padding-bottom: 72px;
+margin-bottom: 72px;
 }
 .container{
     max-width: 1158px;
